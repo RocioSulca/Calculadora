@@ -1,0 +1,22 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocioSulca/Calculadora.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "RocioSulcaZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RocioSulca/Calculadora/issues"
+  },
+  "homepage": "https://github.com/RocioSulca/Calculadora#readme"
+}
