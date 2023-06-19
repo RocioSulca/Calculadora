@@ -20,6 +20,9 @@
   "bugs": {
     "url": "https://github.com/RocioSulca/Calculadora/issues"
   },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
   "homepage": "https://github.com/RocioSulca/Calculadora#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.22.5"
